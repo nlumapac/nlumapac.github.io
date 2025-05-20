@@ -22,12 +22,12 @@ I'm Niño, a former Software Engineer and current Systems Tester with a passion 
 - Contribute to open-source and collaborative web-based systems
 
 ## 🔗 Website
-Check out my live portfolio at: [https://niñoangelo.github.io](https://nlumapac.github.io)
+Check out my live portfolio at: [https://nlumapac.github.io](https://nlumapac.github.io)
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/nlumapac)
 - [GitHub](https://github.com/nlumapac)
-- Email: your.email@example.com
+- Email: nlumapac@gmail.com
 
 ---
 
