@@ -1,5 +1,3 @@
-# Niño Angelo Lumapac - Developer Portfolio
-
 Welcome to my personal portfolio website!
 
 I'm Niño, a former Software Engineer and current Systems Tester with a passion for building practical and impactful software solutions. My professional journey spans across desktop applications, enterprise systems, logistics automation, and quality assurance. Recently, I've been expanding into modern web development, cloud technologies, and integration solutions.
